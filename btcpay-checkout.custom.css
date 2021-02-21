@@ -1,5 +1,5 @@
 body {
-    background: url(https://images.squarespace-cdn.com/content/v1/5e2372d18e3cf11ebaf2d20d/1586460676269-0G0QIZ51BQRECQQDP8LH/ke17ZwdGBToddI8pDm48kNb9EhPvFVeQPBgflrQmIXNZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7aDCnrfcvjeULha8ZP7TJu8YtxmynECBzAw8WXFtFNy57MZmLjFAGPEORr6dIrTpeQ/200-2.gif);
+    background: url(https://media.giphy.com/media/QP2Kf72vV25vQv1Gi7/giphy.gif);
     background-blend-mode: soft-light;
     background-size: 120px;
     background-color: #1d1d1d;
@@ -23,7 +23,7 @@ label {
 }
 .header::after {
     margin: 5px 0 0 0;
-    content: "Thank you! -🕯️";
+    content: "Thank you Elon (with 🕯️ ofc)";
     text-shadow: 1px 1px black;
     font-size: 1.6em;
     position: absolute;
@@ -76,7 +76,7 @@ label {
 }
 
 .payment-box {
-    background: url(https://media3.giphy.com/media/Pw7f9kOfx8iOI/giphy.gif);
+    background: url(https://media.giphy.com/media/YuaVsUy2JxsnSDHHbr/giphy.gif);
     background-position: center;
     background-size: cover;
     border-radius: 0 0 5px 5px;
@@ -247,7 +247,7 @@ label {
 
 /* paid */
 .paid .payment-box {
-    background: url(https://media0.giphy.com/media/mxB3Vu9ckNZiU/giphy.gif);
+    background: url(https://media.giphy.com/media/OOAm53phjfUd0TNP31/giphy.gif);
     min-height: 270px;
 }
 .paid .action-button,
