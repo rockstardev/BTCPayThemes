@@ -248,7 +248,8 @@ label {
 /* paid */
 .paid .payment-box {
     background: url(https://media.giphy.com/media/p5MPrermsja46oIlCG/giphy.gif);
-    min-height: 270px;
+    background-position: center;
+    background-size: cover;
 }
 .paid .action-button,
 .paid .action-button:hover,
